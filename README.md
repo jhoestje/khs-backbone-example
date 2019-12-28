@@ -12,7 +12,6 @@ JSON server end points for the application defined in the example application. H
 the application is primarily HTML5 and Java Script, so you an copy files located under 
 the src/main/webapp to a web server. 
 
-
 Getting Started
 ---------------
 JSON Java End Points accessed by the example application are also included defined in this project which is 
